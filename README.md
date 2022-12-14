@@ -1,5 +1,5 @@
-<h1 align = "center">The NordLink Effect:</h1>
-<h4 align = "center"><em>Estimaing NordLink's causal effect on the German/Norwegian elestricity price spread: a difference-in-difference approach</em></h3>
+<h1 align = "center">The NordLink Effect: Norwegian and German electricity market integration</h1>
+<h4 align = "center"><em>A difference-in-difference approach</em></h3>
 <h4 align = "center"> Master Thesis - Norwegian School of Economics  | Fall 2022</h4>
 <p align = "center"><img src = "https://www.nhh.no/contentassets/dab910c2b4b441648c82105332b974ac/nhh_logo_1f_positiv_helblaa.png", width = "10%" height = "10%"></p>
 
